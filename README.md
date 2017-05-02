@@ -1,6 +1,10 @@
 # AngelsGuard
 It helps provide safety at public events and gatherings by connecting to you to an "angel" (security personnel), in case you are in trouble at a public event. 
 
+
+## The Youtube link to the video can be found under.
++https://www.youtube.com/watch?v=tW5TmxMhtCU
+
 ## Description
 This web app that allows clients/participants to sign up and have a discrete way to call for help in case of an emergency. Hosts create an event, where users go to. One user can make a profile, and sign up for the event for the night. This connects the user with the app, where if they press the "I'm in Danger" button, the web app notifies the security guards via text message.
 
